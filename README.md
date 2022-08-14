@@ -5,6 +5,8 @@
 
 ## Results
 
+[![alt text](https://github.com/Nehemiahmageto/Amazon_Vine_Analysis/blob/main/images/capture.png)
+
 * Total number of Vine and non-Vine reviews
 * Total number of 5 star Vine reviews
 * Total number of 5 star non-Vine reviews
