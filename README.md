@@ -10,31 +10,31 @@ For this project, I analyzed reviews under the "Video Games" category as it has 
 
 To reduce the dataframe and get the most helpful reviews, I extracted reviews with total votes greater than or equal to 20.
 
-[![alt text](https://github.com/Nehemiahmageto/Amazon_Vine_Analysis/blob/main/images/capture.png)
+![alt text](https://github.com/Nehemiahmageto/Amazon_Vine_Analysis/blob/main/images/capture.png)
 
 Next was to extract the helpful votes using the criteria of helpful votes / total votes being greater than 50%.
 
-[![alt text](https://github.com/Nehemiahmageto/Amazon_Vine_Analysis/blob/main/images/capture2.png)
+![alt text](https://github.com/Nehemiahmageto/Amazon_Vine_Analysis/blob/main/images/capture2.png)
 
-THe dataframe was then split according to vine program reviews and non vine program reviews.
+The dataframe was then split according to vine program reviews and non vine program reviews.
 
-[![alt text](https://github.com/Nehemiahmageto/Amazon_Vine_Analysis/blob/main/images/capture3.png)
+![alt text](https://github.com/Nehemiahmageto/Amazon_Vine_Analysis/blob/main/images/capture3.png)
 
-[![alt text](https://github.com/Nehemiahmageto/Amazon_Vine_Analysis/blob/main/images/capture4.png)
+![alt text](https://github.com/Nehemiahmageto/Amazon_Vine_Analysis/blob/main/images/capture4.png)
 
 The results were as below:
 
-[![alt text](https://github.com/Nehemiahmageto/Amazon_Vine_Analysis/blob/main/images/capture5.png)
+![alt text](https://github.com/Nehemiahmageto/Amazon_Vine_Analysis/blob/main/images/capture5.png)
 
-- Total number of Vine and non-Vine reviews
+1. Total number of Vine and non-Vine reviews
 * 94 vine reviews
 * 40,471 non-vine reviews
 
-- Total number of 5 star Vine reviews and non-Vine reviews
+2. Total number of 5 star Vine reviews and non-Vine reviews
 * 48 5 star Vine reviews
 * 15,663 5 star non-Vine reviews
 
-- Percentage of 5 star Vine reviews and on-Vine reviews
+3. Percentage of 5 star Vine reviews and on-Vine reviews
 * 51.06% 5 star Vine reviews
 * 38.70% 5 star non-Vine reviews
 
